@@ -1,20 +1,20 @@
 ## References
-https://www.rabbitmq.com/docs/clustering
+- https://www.rabbitmq.com/docs/clustering
 
-https://www.youtube.com/watch?v=FzqjtU2x6YA
-https://www.youtube.com/watch?v=_lpDfMkxccc
+- https://www.youtube.com/watch?v=FzqjtU2x6YA
+- https://www.youtube.com/watch?v=_lpDfMkxccc
 
-https://stackoverflow.com/questions/52819237/how-to-add-plugin-to-rabbitmq-docker-image
+- https://stackoverflow.com/questions/52819237/how-to-add-plugin-to-rabbitmq-docker-image
 
 ## Policies
 
-https://stackoverflow.com/questions/31662727/define-rabbitmq-policies-in-configuration-file
-https://stackoverflow.com/questions/35383675/setting-a-policy-for-rabbitmq-as-a-part-of-dockerfile-process#:~:text=Docker%20doesn't%20really%20do,policy%20as%20the%20next%20step.
+- https://stackoverflow.com/questions/31662727/define-rabbitmq-policies-in-configuration-file
+- https://stackoverflow.com/questions/35383675/-setting-a-policy-for-rabbitmq-as-a-part-of-dockerfile-process#:~:text=Docker%20doesn't%20really%20do,policy%20as%20the%20next%20step.
 
 ## TODOS
 
-~~check if the definitions are valid / enough~~ // verified that the definitions are working
-next steps I'll be testing the failover and load balancing using nginx,
+- ~~check if the definitions are valid / enough~~ // verified that the definitions are working
+- next steps I'll be testing the failover and load balancing using nginx,
 
 ## commands
 
