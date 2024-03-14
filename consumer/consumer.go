@@ -71,7 +71,7 @@ func consume() {
 		for d := range msgs {
 			log.Printf("Received a message: %s", d.Body)
 
-			d.Ack(false)
+			// d.Ack(false)
 		}
 	}()
 

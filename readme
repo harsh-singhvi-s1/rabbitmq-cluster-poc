@@ -3,8 +3,15 @@
 
 - https://www.youtube.com/watch?v=FzqjtU2x6YA
 - https://www.youtube.com/watch?v=_lpDfMkxccc
+- https://github.com/marcel-dempers/docker-development-youtube-series/tree/master/messaging/rabbitmq
 
 - https://stackoverflow.com/questions/52819237/how-to-add-plugin-to-rabbitmq-docker-image
+
+- https://medium.com/@giorgos.dyrrahitis/configuring-an-nginx-tcp-proxy-for-my-rabbitmq-cluster-under-10-minutes-a0731ec6bfaf
+
+
+Network partition detected needed to configure this in config file as to create stratergy for HA
+- https://www.rabbitmq.com/docs/partitions
 
 ## Policies
 
@@ -15,6 +22,11 @@
 
 - ~~check if the definitions are valid / enough~~ // verified that the definitions are working
 - next steps I'll be testing the failover and load balancing using nginx,
+- check drivers in golang and node
+- healthchecks for nginx rev proxy
+
+- test durable queue
+- test nwtwork partition
 
 ## commands
 
