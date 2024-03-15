@@ -13,6 +13,12 @@
 Network partition detected needed to configure this in config file as to create stratergy for HA
 - https://www.rabbitmq.com/docs/partitions
 
+cluster client
+- https://github.com/streadway/amqp/issues/339
+
+- golang failover
+https://medium.com/@dhanushgopinath/automatically-recovering-rabbitmq-connections-in-go-applications-7795a605ca59
+
 ## Policies
 
 - https://stackoverflow.com/questions/31662727/define-rabbitmq-policies-in-configuration-file
